@@ -20,11 +20,11 @@ body {
 
 #pic-container {
 	padding: 50px;
-	margin-bottom: 70px;
+	margin-bottom: 10vh;
 }
 
 #form {
-	margin: 200px 60px 60px 60px;
+	margin: 35vh 10vh 10vh 10vh;
 }
 
 input {
@@ -66,6 +66,8 @@ input {
 }
 
 #right-pane {
+	display: flex;
+	flex: 1;
 	height: 100%;
 	padding: 20px;
 	background-color: #ffffff;
